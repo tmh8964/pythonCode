@@ -1,3 +1,3 @@
-def he1:
+def he1():
     print('hello,world!')
 he1()
